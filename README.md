@@ -15,4 +15,4 @@ In the project directory, you can run:
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 ##UI
-<img src="./src/assets/ui.png">
+<img src="ui.png">
