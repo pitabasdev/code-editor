@@ -5,9 +5,13 @@ Welcome to the React Code Editor! This is a web-based code editor built using Re
 ## Features
 
 ✏️ Write and edit HTML, CSS, and JavaScript code in real-time.
+
 🚀 Run and preview your code instantly in the browser.
+
 💡 Syntax highlighting for code clarity.
+
 📦 Easy setup and integration with React projects.
+
 ## Live Demo
 
 Check out  [here](https://code-editor-k5dw.onrender.com/).
